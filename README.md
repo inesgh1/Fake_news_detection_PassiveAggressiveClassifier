@@ -8,7 +8,7 @@ to detect fake news on a social media website like Twitter, where new data is be
 
 Passive-Aggressive algorithms are somewhat similar to a Perceptron model, in the sense that they do not require a learning rate. However, they do include a regularization parameter.
 
-**How Passive-Aggressive Algorithms Work:
+**How Passive-Aggressive Algorithms Work:**
 **Passive-Aggressive algorithms are called so because :**
 
 Passive: If the prediction is correct, keep the model and do not make any changes. i.e., the data in the example is not enough to cause any changes in the model. 
